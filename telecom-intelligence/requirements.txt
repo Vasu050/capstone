@@ -1,0 +1,16 @@
+pandas
+matplotlib
+seaborn
+numpy
+jupyter
+ipykernel
+mysql-connector-python
+python-dotenv
+pyarrow
+fastparquet
+pyspark
+fastapi
+uvicorn
+pydantic
+scikit-learn
+joblib
